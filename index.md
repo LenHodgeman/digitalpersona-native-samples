@@ -8,7 +8,7 @@ nav_order: 1
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Native Sample Applications / Overview  
 
-![](docs/assets/HID-DPAM-enroll.png)  
+![](docs/assets/HID-DPAM-native-sample.png)  
 ### Native Sample Applications
 ## Overview
 
